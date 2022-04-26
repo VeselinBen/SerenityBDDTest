@@ -1,4 +1,4 @@
-# SerenityBDD Test Framework
+# QH test
 
 ## Prerequisites
 
@@ -8,7 +8,7 @@
 
 ## Purpose
 
-The purpose of SerenityBDD Test Framework is to utilise SerenityBDD library to create clean and maintainable automated acceptance and regression tests. This test framework contains both API and UI tests documented as Cucumber features.
+The purpose of QH test is to utilise SerenityBDD library to create clean and maintainable automated acceptance and regression tests. This test framework contains both API and UI tests documented as Cucumber features.
 
 ## Configuration
 

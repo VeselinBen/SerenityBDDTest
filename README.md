@@ -1,4 +1,4 @@
-# QH test
+# Serenity BDD Test
 
 ## Prerequisites
 
@@ -8,7 +8,7 @@
 
 ## Purpose
 
-The purpose of QH test is to utilise SerenityBDD library to create clean and maintainable automated acceptance and regression tests. This test framework contains both API and UI tests documented as Cucumber features.
+The purpose of Serenity BDD Test is to utilise SerenityBDD library to create clean and maintainable automated acceptance and regression tests. This test framework contains both API and UI tests documented as Cucumber features.
 
 ## Configuration
 
@@ -42,8 +42,8 @@ After all tests are done:
 [INFO] -----------------------------------------
 [INFO] 
 [INFO] SERENITY REPORTS
-[INFO]   - Full Report: file:///<path-to-project>/qh-test/target/site/serenity/index.html
-[INFO]   - Single Page HTML Summary: file:///<path-to-project>/IdeaProjects/qh-test/target/site/serenity/serenity-summary.html
+[INFO]   - Full Report: file:///<path-to-project>/SerenityBDDTest/target/site/serenity/index.html
+[INFO]   - Single Page HTML Summary: file:///<path-to-project>/IdeaProjects/SerenityBDDTest/target/site/serenity/serenity-summary.html
 [INFO] ------------------------------------------------------------------------
 
 ```
